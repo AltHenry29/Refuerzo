@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Deporte/Deporte.iml" filepath="$PROJECT_DIR$/Deporte/Deporte.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Refuerzo.iml" filepath="$PROJECT_DIR$/.idea/Refuerzo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sistemas/Sistemas.iml" filepath="$PROJECT_DIR$/Sistemas/Sistemas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Veterinaria/Veterinaria.iml" filepath="$PROJECT_DIR$/Veterinaria/Veterinaria.iml" />
